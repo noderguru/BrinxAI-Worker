@@ -7,3 +7,14 @@
 
 <img width="1800" height="880" alt="image" src="https://github.com/user-attachments/assets/fa35e6d0-51ab-42dc-af08-47b6bf09efb1" />
 
+Качаем и стартуем скрипт. В процессе спросит какой порт использовать WORKER_PORT, можно оставить дефолтный, затем вставляем ```UUID```
+
+```bash
+git clone https://github.com/noderguru/BrinxAI-Worker.git && cd BrinxAI-Worker && bash BrinxAI-Worker.sh
+```
+После того как все загрузит, выбираем модели, которые хотим установить. Покажет какие порты будут заняты и сколько RAM и CPU грузит каждая модель.
+
+<img width="661" height="136" alt="image" src="https://github.com/user-attachments/assets/ba8e2177-ffcd-4be1-83e7-adddb263be18" />
+
+
+
