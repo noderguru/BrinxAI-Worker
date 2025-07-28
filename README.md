@@ -12,7 +12,7 @@
 ```bash
 git clone https://github.com/noderguru/BrinxAI-Worker.git && cd BrinxAI-Worker && bash BrinxAI-Worker.sh
 ```
-Выбираем модели, которые хотим установить. Покажет какие порты будут заняты и сколько RAM и CPU грузит каждая модель.
+Выбираем модели, которые хотим установить. Покажет какие порты будут заняты и сколько RAM и CPU в пике грузит каждая модель.
 
 <img width="661" height="136" alt="image" src="https://github.com/user-attachments/assets/ba8e2177-ffcd-4be1-83e7-adddb263be18" />
 
